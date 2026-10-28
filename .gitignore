@@ -1,0 +1,12 @@
+# Backend
+backend/target/
+*.iml
+.idea/
+.vscode/
+# Frontend
+frontend/node_modules/
+frontend/dist/
+# Divers
+.DS_Store
+*.log
+_previous_backend_attempt/
